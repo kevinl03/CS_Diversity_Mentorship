@@ -18,9 +18,9 @@ function HeroSection() {
                     className='btns'
                     buttonStyle='btn--primary'
                     buttonSize='btn--large'
-                    link='/contact'
+                    link='/about'
                 >
-                    CONTACT US
+                    LEARN MORE
                 </Button>
             </div>
         </div >

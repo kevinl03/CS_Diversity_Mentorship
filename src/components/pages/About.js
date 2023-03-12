@@ -6,14 +6,11 @@ export default function About() {
     return (
         <>
             <h1 className='about'>
-                ABOUT ME
+                OUR VISION
             </h1>
 
             <p className='page_description'>
-                My name is Joshua Yellowley, and I am a Third Year Computer Engineering Student at the University of British Columbia.
-                As a passionate technology user and avid programmer, I am a driven individual who loves to explore new technology, tackle complex problems, and collaborate to produce high-quality products and results.
-                Outside of work, I love to interact with others, whether that be outside enjoying the weather with friends or playing video games with friends.
-                Some of my personal interests and hobbies are shown below!
+            To create a world where all students, regardless of their background, have access to the resources, role models, and guidance needed to pursue a career in computer science. We aim to inspire and empower underrepresented students to confidently pursue their passion for technology while cultivating a diverse and inclusive community of future tech leaders. By striving towards increasing the representation of diverse perspectives in the field of computer science, we hope to drive innovation and progress within our society.
             </p>
             <AboutCards />
         </>
