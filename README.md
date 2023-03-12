@@ -1,5 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### DESCRPITION
 
+Had 24 hours to create and deploy website for a project that 2 buisness friends and I needed to complete for a pitch for the 
+SFU CS Diversity Award. We intend to match proffessionals and SFU allumni in computer science with high school students in our local high school district 
+who are part of a minority that are represented in the computer science field such as woman, aboriginals and studnets of colour.
 ## Available Scripts
 
 In the project directory, you can run:
