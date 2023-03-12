@@ -9,7 +9,7 @@ function ProjectCards() {
                 <div className='cards__wrapper'>
                     <ul className='cards__items'>
                         <CardItem
-                            src='images/todo.png'
+                            src='images/image3-modified.png'
                             text='To-Do List Utilizing MERN Full Stack'
                             label='MongoDB, ReactJS, NodeJS'
                             path='https://github.com/joshuayellowley'

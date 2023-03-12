@@ -7,15 +7,12 @@ function Projects() {
     return (
         <>
             <h1 className='projects'>
-                PROJECTS
+                MEET THE MENTORS
             </h1>
             <p className='page_description'>
-                The below cards have links to some of my prior projects available on my Github.
-                The topics span all different aspects of computer programming, from Web Development to navigating Data Structures using Algorithms.
-                Feel free to explore the code I have written.
-            <p className='languages'>
-                    Programming Language Experience: Python, Javascript, ReactJS, C, C++, Java, Verilog, SystemVerilog, Assembly
-            </p>
+                    We are a passionate team of experienced mentors dedicated to promoting diversity in computer science by tutoring high school
+                    students. Our goal is to create a safe and supportive learning environment for all students, tailoring our sessions to meet 
+                    their individual needs. Join us today and be a part of our community of learners working towards a brighter future
 
             </p>
             <ProjectCards />
