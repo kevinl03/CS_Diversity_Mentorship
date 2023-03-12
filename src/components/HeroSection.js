@@ -7,20 +7,12 @@ import { DownloadButton } from './DownloadButton';
 function HeroSection() {
     return (
         <div className='hero-container'>
-            <video src='/videos/video-1.mp4' autoPlay loop muted />
+            <img src='images/high-school-tutors.jpg' alt = "broken" />
             <h1>CS Diversity Inclusion</h1>
             <p></p>
             <p></p>
             <div className='hero-btns'>
 
-                <DownloadButton
-                    className='btns'
-                    buttonStyle='btn--outline'
-                    buttonSize='btn--large'
-                // link='/about'
-                >
-                    RESUME
-                </DownloadButton>
 
                 <Button
                     className='btns'
@@ -28,7 +20,7 @@ function HeroSection() {
                     buttonSize='btn--large'
                     link='/contact'
                 >
-                    CONTACT ME
+                    CONTACT US
                 </Button>
             </div>
         </div >
