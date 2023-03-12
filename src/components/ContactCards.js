@@ -12,7 +12,7 @@ function ContactCards() {
                             src='images/linkedin.jpg'
                             text='LinkedIn Profile'
                             label='Social'
-                            path='https://www.linkedin.com/in/joshua-yellowley-3739b5141/'
+                            path='https://www.linkedin.com/in/kevin-litvin/'
                         />
                         {/* <CardItem
                             src='images/clipboard.jpg'
