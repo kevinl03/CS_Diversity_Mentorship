@@ -16,7 +16,7 @@ function ProjectCards() {
                         />
                         <CardItem
                             src='images/1599342878551-modified.png'
-                            text="Coding was difficult for me initially, but I realized that it was the right path for me!"
+                            text='Coding was difficult for me initially, but I realized that it was the right path for me!'
                             label='Joshua'
                             path='https://www.linkedin.com/in/joshuayellowley/'
                         />
