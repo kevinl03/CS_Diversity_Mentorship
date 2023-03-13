@@ -10,7 +10,7 @@
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.3"
-    "homepage": "http://yuribenjamin.github.io/my-app"
+    "homepage": "http://kevinl03.github.io/CS_Diversity_Mentorship"
   },
   "scripts": {
     "start": "react-scripts start",
