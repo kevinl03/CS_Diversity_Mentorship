@@ -10,19 +10,19 @@ function ProjectCards() {
                     <ul className='cards__items'>
                         <CardItem
                             src='images/image3-modified.png'
-                            text='To-Do List Utilizing MERN Full Stack'
+                            text='Choosing a path was hard for me, and I am determined to help others who share the same struggles'
                             label='Andrea'
                             path='https://www.linkedin.com/in/andreashao/'
                         />
                         <CardItem
                             src='images/1599342878551-modified.png'
-                            text='Personal Website'
+                            text="Coding was difficult for me initially, but I realized that it was the right path for me!"
                             label='Joshua'
                             path='https://www.linkedin.com/in/joshuayellowley/'
                         />
                         <CardItem
                             src='images/image-modified.png'
-                            text='I love helping!'
+                            text='Finding a job as an immigrant from Russia was challenging, yet I found coding as my passion during the process'
                             label='Svetlana'
                             path='https://www.linkedin.com/in/andreashao/'/>
 

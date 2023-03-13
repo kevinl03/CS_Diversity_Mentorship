@@ -74,6 +74,18 @@
   .menu-icon {
     display: none;
   }
+
+  .button {
+    font-size: 22px;
+    border-radius: 4px;
+    background-color: #1e73be;
+    color: purple;
+    padding: 6px 12px;
+    cursor: pointer;
+    border: 4px solid #1e80be;
+    width: 240px;
+    margin: 12px;
+  }
   
   @media screen and (max-width: 960px) {
     .NavbarItems {
